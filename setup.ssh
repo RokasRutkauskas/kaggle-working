@@ -1,0 +1,4 @@
+cd ./keras-retinanet
+python setup.py build_ext --inplace
+cd ..
+python prepare_data.py
