@@ -6,7 +6,7 @@
  "TRAIN_CSV": "./data/processed/train.csv", 
  "VAL_CSV": "./data/processed/val.csv", 
  "CLASSES_CSV": "./data/processed/classes.csv",
- "SNAPSHOT_DIR": "./snapshots/",
+ "SNAPSHOT_DIR": "../working/snapshots/",
  "MODEL_50": "./models/resnet50_csv_22.h5",
  "MODEL_101": "./models/resnet101_csv_21.h5",
  "SUBMISSION_DIR": "./submissions/"}
